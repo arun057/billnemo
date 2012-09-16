@@ -60,4 +60,10 @@ namespace :deploy do
     run "ln -nfs #{shared_path}/config/database.yml #{release_path}/config/database.yml"
   end
   after "deploy:finalize_update", "deploy:symlink_config"
+
+  desc "run 'bundle install' to install Bundler's packaged gems for the current deploy"
+  task :bundle_install, :roles => :app do
+    run "cd #{release_path} && bundle install"
+  end
+  after "deploy:update_code", "deploy:bundle_install"
 end
