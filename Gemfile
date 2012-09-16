@@ -21,14 +21,7 @@ group :assets do
   gem 'carrierwave'
 
   gem 'uglifier', '>= 1.0.3'
-end
-
-group :development, :test do
   gem 'rmagick'
-end
-
-group :production do 
-  gem 'rmagick', :lib => '$HOME/local'
 end
 
 gem 'jquery-rails'
