@@ -67,8 +67,7 @@ namespace :deploy do
   # http://stackoverflow.com/questions/8173995/why-am-i-getting-this-passenger-error-could-not-find-rake-0-9-2-2-in-any-of-the
   desc "run 'bundle install' to install Bundler's packaged gems for the current deploy"
   task :bundle_install, :roles => :app do
-  	run "export PATH=$HOME/local/bin:$PATH"
-    run "cd #{release_path} && bundle install --path $HOME/gems/vendor/bundle"
+    run "cd #{release_path} && bundle install"
   end
   after "deploy:update_code", "deploy:bundle_install"
 end
