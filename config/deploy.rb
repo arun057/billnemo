@@ -61,9 +61,14 @@ namespace :deploy do
   end
   after "deploy:finalize_update", "deploy:symlink_config"
 
+
+  # converted to bundle install --path vendor/bundle after erro on Phusion Passenger
+  # Could not find rake-0.9.2.2 in any of the sources (Bundler::GemNotFound)
+  # http://stackoverflow.com/questions/8173995/why-am-i-getting-this-passenger-error-could-not-find-rake-0-9-2-2-in-any-of-the
   desc "run 'bundle install' to install Bundler's packaged gems for the current deploy"
   task :bundle_install, :roles => :app do
-    run "cd #{release_path} && bundle install"
+  	run "export PATH=$HOME/local/bin:$PATH"
+    run "cd #{release_path} && bundle install --path $HOME/gems/vendor/bundle"
   end
   after "deploy:update_code", "deploy:bundle_install"
 end
