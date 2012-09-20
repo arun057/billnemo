@@ -21,7 +21,7 @@ group :assets do
   gem 'carrierwave'
 
   gem 'uglifier', '>= 1.0.3'
-  gem 'rmagick'
+  # gem 'rmagick'
 end
 
 gem 'jquery-rails'
