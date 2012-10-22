@@ -1,2 +1,5 @@
-<h1>Dashboard#index</h1>
-<p>Find me in app/views/dashboard/index.html.erb</p>
+<% if user_signed_in? then %>
+  <%= render :partial => 'signed_in' %>
+<% else %>
+  <%= render :partial => 'not_signed_in' %>
+<% end %>
