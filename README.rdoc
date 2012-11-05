@@ -10,26 +10,26 @@ The project is currently hosted at www.billnemo.com
 
 = v0
 
-Ability to add / remove bills
-Ability to add friends
-Unit tests
+* Ability to add / remove bills
+* Ability to add friends
+* Unit tests
 
 = v0.5
 
-Ability to assign friends to bills
-Ability to share bills with friends
-Unit test
+* Ability to assign friends to bills
+* Ability to share bills with friends
+* Unit test
 
 = v1.0
 
-First MVP deploy to Billnemo.com with limited access.
-User Dashboard
-Unit Tests
+* First MVP deploy to Billnemo.com with limited access.
+* User Dashboard
+* Unit Tests
 
 = v1.5
 
-Ability to consolidate bills with friends (rotate bills)
-Unit Tests
+* Ability to consolidate bills with friends (rotate bills)
+* Unit Tests
 
 == Wanna help?
 
