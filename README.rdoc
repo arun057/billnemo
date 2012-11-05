@@ -6,6 +6,14 @@ BillNemo is a bill sharing application for people to split bills and settle with
 The project is currently hosted at www.billnemo.com
 
 
+== Roadmap
+
+= v0
+
+= v0.5
+
+= v1.0
+
 == Want to host your own?
 
 Though billnemo will be available at www.billnemo.com for everyone to use and enjoy, you might want to host your own billnemo. For that purpose, here is how you get started.

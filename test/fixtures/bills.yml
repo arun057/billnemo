@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  user_id: 1
+  type_id: 1
+  total_items: 1
+  total_users: 1
+  bill_date: 2012-10-22
+
+two:
+  name: MyString
+  user_id: 1
+  type_id: 1
+  total_items: 1
+  total_users: 1
+  bill_date: 2012-10-22

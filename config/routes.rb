@@ -1,4 +1,6 @@
 Billnemo::Application.routes.draw do
+  resources :bills
+
   root :to => 'dashboard#index'
   devise_for :users
 
