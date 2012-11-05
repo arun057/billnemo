@@ -1,37 +1,38 @@
-== Introducing BillNemo
+= Introducing BillNemo
 
 BillNemo is a bill sharing application for people to split bills and settle with each other. Be it roommates or just friends grabbing dinner together and splitting the bill. BillNemo makes it easy for people to share bills in as much detail as they want.
 
 
 The project is currently hosted at www.billnemo.com
 
+---
+= Roadmap
 
-== Roadmap
-
-= [v0 - Bills and Friends]https://github.com/arun057/billnemo/issues?milestone=1&state=open
+== {v0 - Bills and Friends}[https://github.com/arun057/billnemo/issues?milestone=1&state=open]
 
 * Ability to add / remove bills
 * Ability to add friends
 * Unit tests
 
-= v0.5
+== {v0.5 - Splitting time}[https://github.com/arun057/billnemo/issues?milestone=2&state=open]
 
 * Ability to assign friends to bills
 * Ability to share bills with friends
 * Unit test
 
-= v1.0
+== {v1 - Deploy}[https://github.com/arun057/billnemo/issues?milestone=3&state=open]
 
 * First MVP deploy to Billnemo.com with limited access.
 * User Dashboard
 * Unit Tests
 
-= v1.5
+== {v1.5 - Consolidate Bills}[https://github.com/arun057/billnemo/issues?milestone=4&state=open]
 
 * Ability to consolidate bills with friends (rotate bills)
 * Unit Tests
 
-== Wanna help?
+---
+= Wanna help?
 
 * Can you code?
 
@@ -49,7 +50,8 @@ The project is currently hosted at www.billnemo.com
 
   Help us chalk out the milestones and stories. Creat issues, do some QA. Get more people to join.
 
-== Want to host your own?
+---
+= Want to host your own?
 
 Though billnemo will be available at www.billnemo.com for everyone to use and enjoy, you might want to host your own billnemo. For that purpose, here is how you get started.
 
