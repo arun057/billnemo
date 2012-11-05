@@ -34,15 +34,19 @@ Unit Tests
 == Wanna help?
 
 * Can you code?
+
   Fork and code away.
 
 * Can you design?
+
   All designs will be added to this repo, feel free to help.
 
 * You a UX person?
+
   All wireframes will be added as well, feel free to help out.
 
 * You just wanna help?
+
   Help us chalk out the milestones and stories. Creat issues, do some QA. Get more people to join.
 
 == Want to host your own?
