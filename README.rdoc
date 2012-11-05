@@ -8,7 +8,7 @@ The project is currently hosted at www.billnemo.com
 
 == Roadmap
 
-= v0
+= [v0 - Bills and Friends]https://github.com/arun057/billnemo/issues?milestone=1&state=open
 
 * Ability to add / remove bills
 * Ability to add friends
