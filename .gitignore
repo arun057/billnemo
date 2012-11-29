@@ -33,3 +33,4 @@ rerun.txt
 pickle-email-*.html
 database.yml
 manifest.yml
+.DS_Store
