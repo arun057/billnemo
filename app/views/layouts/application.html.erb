@@ -36,6 +36,13 @@
   </head>
   <body>
 
+    <header class="subhead">
+      <ul class="nav navbar">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </header>
+
     <div class="container-fluid">
     	<%= bootstrap_flash %>
 	  </div>
@@ -44,12 +51,15 @@
       <div class="row-fluid">
           <%= yield %>
       </div><!--/row-->
-
-      <footer>
-        <p>&copy; BillNemo 2012</p>
-      </footer>
     </div> <!-- /container -->
-
+    <footer class="container navbar navbar-fixed-top">
+      <ul class="nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+      <div class="clearfix"></div>
+      <p>&copy; BillNemo 2012</p>
+    </footer>
     <!-- Javascripts
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

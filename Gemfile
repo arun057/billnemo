@@ -1,12 +1,15 @@
 source 'https://rubygems.org'
 
-gem 'rake', '0.9.2.2'
+gem 'rake'
 gem 'rails', '3.2.8'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
+
+# To send out email with gmail.
+gem 'tlsmail'
 
 
 # Gems used only for assets and not required
@@ -16,6 +19,7 @@ group :assets do
   gem 'coffee-rails', '~> 3.2.1'
   gem 'jquery-rails'
   gem 'twitter-bootstrap-rails'
+  gem 'less-rails'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   gem 'therubyracer', :platforms => :ruby

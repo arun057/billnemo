@@ -1,12 +1,40 @@
 <% content_for :title, "Bill Sharing - Without all the Fluff" %>
-<div id="home_fullscreen">
-  <div id="welcome">
-    <h2>Welcome - You should probably signup (or sign in if you already did).</h2>
-  </div>
-  <div id="about">
-  	<p>
-     Finally! A simple, usable and to the point Bill Sharing and Management Tool. Got Roomies? Spotted a friend? Paid for dinner? Do you want to keep track of all that? Well, if you answer yes to the last question, your search just (hopefully) ended. After facing stupid issues with a whole bunch of bill sharing applications, We decided to make our own. And then we thought, why not open it up to people? Why not let everyone in on the fun. So we open sourced the whole project! You can find it on <a href="https://github.com/arun057/billnemo" alt="https://github.com/arun057/billnemo">Github</a>.
-    </p>
+<div class="span9">
+  <div class="hero-unit">
+    <h1>Welcome - now, why are you here?</h1>
+    <p>
+       Finally! A simple, usable and to the point Bill Sharing and Management Tool. Got Roomies? Spotted a friend? Paid for dinner? Do you want to keep track of all that? Well, if you answer yes to the last question, your search just (hopefully) ended. After facing stupid issues with a whole bunch of bill sharing applications, We decided to make our own. And then we thought, why not open it up to people? Why not let everyone in on the fun. So we open sourced the whole project! You can find it on <a href="https://github.com/arun057/billnemo" alt="https://github.com/arun057/billnemo">Github</a>.
+      </p>
     <p>Do you develop? Have an awesome idea for the application? Wanna contribute some design changes? Or just want to write documentation for other people? Head on over to Github.</p>
+    <p>
+      <%= link_to "Ready? Sign Up", new_user_registration_path, :class => 'btn btn-primary btn-large' %>
+    </p>
+  </div>
+</div>
+
+<div class="span3">
+  <div class="login well">
+    <%= form_for("user", :url => user_session_path) do |f| %>
+    <div class="controls">
+      <div class="input-prepend">
+        <span class="add-on"><i class="icon-envelope"></i></span>
+        <%= f.text_field :email , :placeholder => 'email' %>
+      </div>
+    </div>
+    <div class="controls">
+      <div class="input-prepend">
+        <span class="add-on"><i class="icon-asterisk"></i></span>
+        <%= f.password_field :password , :placeholder => 'password' %>
+      </div>
+    </div>
+      <label class="checkbox">
+      <%= f.check_box :remember_me %>  Remember me
+      </label>
+        <%= f.submit 'Sign in', :class => 'btn btn-success' %>
+      <%= link_to "New here? Sign Up", new_user_registration_path, :class => 'btn btn-primary' %>
+      <p>
+        <%= link_to "Forgot your password?", new_password_path('user') %>
+      </p>
+    <% end %>
   </div>
 </div>

@@ -11,3 +11,24 @@
  *= require_self
  *= require_tree .
  */
+
+footer.container.navbar-fixed-top {
+	top: auto;
+	bottom: 0;
+	background: #e6efcd;
+	margin: 0;
+	width: 100%;
+	padding: 20px;
+	border-top: 2px solid #ccc;
+}
+
+footer p {
+  text-align: center;
+}
+
+header{
+  padding: 20px;
+  background: #f6f6f6;
+  border-bottom: 2px solid #eee;
+  margin-bottom: 20px;
+}

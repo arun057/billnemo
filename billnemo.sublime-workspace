@@ -1,0 +1,1840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inne",
+				"innerHeight"
+			],
+			[
+				"follo",
+				"follow_agency"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"entity",
+				"entity_bucket"
+			],
+			[
+				"agenc",
+				"agency_name"
+			],
+			[
+				"asset",
+				"asset_tracker"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"dial",
+				"dialog_object"
+			],
+			[
+				"overl",
+				"overlay_dialog"
+			],
+			[
+				"over",
+				"overlay_agency"
+			],
+			[
+				"overla",
+				"overlay_artist"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"back_overlay_content"
+			],
+			[
+				"front",
+				"front_face"
+			],
+			[
+				"front_",
+				"front_face"
+			],
+			[
+				"b",
+				"back_face_height"
+			],
+			[
+				"new",
+				"newhash"
+			],
+			[
+				"be",
+				"before_filter"
+			],
+			[
+				"inter",
+				"interest_id"
+			],
+			[
+				"interest",
+				"interests"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"colo",
+				"color_button"
+			],
+			[
+				"curren",
+				"current_color"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"all",
+				"all_images"
+			],
+			[
+				"resi",
+				"resize_to_limit"
+			],
+			[
+				"color",
+				"colorhues"
+			],
+			[
+				"auth",
+				"authorizations"
+			],
+			[
+				"ass",
+				"asset_id"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"removeCon",
+				"remove_container_association"
+			],
+			[
+				"processCont",
+				"processContainers"
+			],
+			[
+				"artist_",
+				"artist_id"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"contain",
+				"containers"
+			],
+			[
+				"parent",
+				"parent_container_id"
+			],
+			[
+				"acce",
+				"acceptRejectSetting"
+			],
+			[
+				"client",
+				"client_term"
+			],
+			[
+				"container",
+				"container_ids"
+			],
+			[
+				"pro",
+				"professional"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"paren",
+				"parent_expense_template_id"
+			],
+			[
+				"part",
+				"partial_key"
+			],
+			[
+				"clon",
+				"cloneable_template"
+			],
+			[
+				"clone",
+				"cloneable_group"
+			],
+			[
+				"clonea",
+				"cloneable"
+			],
+			[
+				"group",
+				"group_container"
+			],
+			[
+				"expens",
+				"expenseTemplateName"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"expense",
+				"expenseTemplateSetting"
+			],
+			[
+				"expenseTempl",
+				"expenseTemplateName"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"exp",
+				"expense"
+			],
+			[
+				"expe",
+				"expenses"
+			],
+			[
+				"render",
+				"renderView"
+			],
+			[
+				"rater",
+				"rate_rows"
+			],
+			[
+				"errb",
+				"errbit_api_key"
+			],
+			[
+				"scheduletalent",
+				"schedule_talent"
+			],
+			[
+				"bookingconte",
+				"booking_context"
+			],
+			[
+				"tal",
+				"talent_id"
+			],
+			[
+				"appoi",
+				"appointment_id"
+			],
+			[
+				"defau",
+				"default_statement_version"
+			],
+			[
+				"currentcac",
+				"current_cache_counter"
+			],
+			[
+				"pop",
+				"populateTempRows"
+			],
+			[
+				"rows",
+				"rows"
+			],
+			[
+				"appoint",
+				"appointments_hash"
+			],
+			[
+				"currentCac",
+				"current_cache"
+			],
+			[
+				"appo",
+				"appointment_id"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"rond",
+				"roundWithPrecision"
+			],
+			[
+				"mysqldatet",
+				"mysqlDateTimeToLocalDate"
+			],
+			[
+				"app",
+				"appointment"
+			],
+			[
+				"talentid",
+				"talent_id"
+			],
+			[
+				"total",
+				"totalDays"
+			],
+			[
+				"appoin",
+				"appointment_times"
+			],
+			[
+				"time",
+				"timezone_settings"
+			],
+			[
+				"rate",
+				"rate_row"
+			],
+			[
+				"talen",
+				"talent_id"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"currentca",
+				"current_cache"
+			],
+			[
+				"bookinsta",
+				"booking_statement_version_id"
+			],
+			[
+				"updateRate",
+				"updateRateRowCache"
+			],
+			[
+				"popu",
+				"populateRateRows"
+			],
+			[
+				"bookingstatem",
+				"booking_statement_version_id"
+			],
+			[
+				"addToRAt",
+				"addToRateRowCache"
+			],
+			[
+				"financial",
+				"financialCache"
+			],
+			[
+				"booking_stat",
+				"booking_statement_version_id"
+			],
+			[
+				"bookstid",
+				"booking_statement_version_id"
+			],
+			[
+				"bookingStateen",
+				"bookingStatementVersionID"
+			],
+			[
+				"rateRow",
+				"rateRowCache"
+			],
+			[
+				"rateRo",
+				"rateRowCache"
+			],
+			[
+				"rateR",
+				"rateRowCache"
+			],
+			[
+				"appointment_",
+				"appointment_id"
+			],
+			[
+				"contact_id",
+				"contact_id"
+			],
+			[
+				"converted",
+				"convertedStart"
+			],
+			[
+				"more",
+				"more_talent_row"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"eee",
+				"EEE"
+			],
+			[
+				"che",
+				"checkTheBox"
+			],
+			[
+				"check",
+				"checkbox_container"
+			],
+			[
+				"state",
+				"statement"
+			],
+			[
+				"notifi",
+				"notification_status_id"
+			],
+			[
+				"notici",
+				"notification_statuses"
+			],
+			[
+				"agenda",
+				"agenda-table"
+			],
+			[
+				"Boo",
+				"BookingStatementVersion"
+			],
+			[
+				"BookingSta",
+				"BookingStatementVersion"
+			],
+			[
+				"appoint_",
+				"appointment_id"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"li",
+				"liszt"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"aja",
+				"ajaxChosen"
+			],
+			[
+				"bookin",
+				"bookings_index"
+			],
+			[
+				"ap",
+				"appointment"
+			],
+			[
+				"Contact",
+				"ContactBookingAppointment"
+			],
+			[
+				"contact_boo",
+				"contact_booking_appointment_id"
+			],
+			[
+				"boo",
+				"booking"
+			],
+			[
+				"toa",
+				"total_columns"
+			],
+			[
+				"total_",
+				"total_columns"
+			],
+			[
+				"per",
+				"per_column"
+			],
+			[
+				"look",
+				"lookbook_assets"
+			],
+			[
+				"lookbook",
+				"lookbook_assets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 871,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 2419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/dashboard/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/dashboard.css.scss",
+			"settings":
+			{
+				"buffer_size": 559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/dashboard/_not_signed_in.html.erb",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environment.rb",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/dashboard/_signed_in.html.erb",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Sublime-JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/looneydoodle/projects/billnemo/config/environments/development.rb",
+		"/Users/looneydoodle/projects/billnemo/Gemfile",
+		"/Users/looneydoodle/projects/billnemo/db/migrate/20120913012656_devise_create_users.rb",
+		"/Users/looneydoodle/projects/billnemo/db/migrate/20121129002359_allow_null_on_user_table.rb",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/marketplace/news_overlay.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/js/common.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/js/functions.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/js/marketplace.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/config/core.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/pages/about.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/config/database.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/marketplace/work_overlay.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/vendors/dompdf/config",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/config/config.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/new_faces/about.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/css/screen.css",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/elements/analytics.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/js/lookbook.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/elements/lookbook_overlay.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/elements/loaded_overlay.ctp",
+		"/Users/looneydoodle/Desktop/pintrest.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/elements/footer_new.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/views/elements/footer.ctp",
+		"/Users/looneydoodle/Downloads/jquery.flippy.1.0.1/jquery.flippy.min.js",
+		"/Users/looneydoodle/projects/lkbks/ModularChasis/app/controllers/campaigns_controller.php",
+		"/Users/looneydoodle/projects/lkbks/ModularChasis/app/controllers/syndications_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/appointment_email_status.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/controllers/appointment_notifications_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/notification_status.php",
+		"/Users/looneydoodle/projects/dtourio/app/controllers/application_controller.rb",
+		"/Users/looneydoodle/projects/dtourio/app/controllers/locations_controller.rb",
+		"/Users/looneydoodle/projects/dtourio/app/models/location.rb",
+		"/Users/looneydoodle/projects/dtourio/app/models/trip.rb",
+		"/Users/looneydoodle/projects/dtourio/app/controllers/trips_controller.rb",
+		"/Users/looneydoodle/projects/dtourio/app/views/trips/new.html.erb",
+		"/Users/looneydoodle/projects/dtourio/app/assets/javascripts/trips.js",
+		"/Users/looneydoodle/projects/dtourio/app/assets/javascripts/application.js",
+		"/Users/looneydoodle/projects/dtourio/app/views/locations/index.html.erb",
+		"/Users/looneydoodle/projects/dtourio/app/assets/stylesheets/gmaps4rails.css",
+		"/Users/looneydoodle/projects/dtourio/app/models/authorization.rb",
+		"/Users/looneydoodle/projects/dtourio/app/views/authorizations/index.html.erb",
+		"/Users/looneydoodle/projects/dtourio/app/controllers/authorizations_controller.rb",
+		"/Users/looneydoodle/projects/dtourio/config/routes.rb",
+		"/Users/looneydoodle/projects/dtourio/app/assets/stylesheets/authorizations.css.scss",
+		"/Users/looneydoodle/projects/dtourio/app/views/authorizations/edit.html.erb",
+		"/Users/looneydoodle/projects/style/css/nav.css",
+		"/Users/looneydoodle/projects/style/css/nav2.css",
+		"/Users/looneydoodle/projects/huestreet/app/models/colorhue.rb",
+		"/Users/looneydoodle/projects/huestreet/app/views/welcome/home.html.erb",
+		"/Users/looneydoodle/projects/huestreet/app/controllers/welcome_controller.rb",
+		"/Users/looneydoodle/projects/huestreet/app/assets/javascripts/welcome.js",
+		"/Users/looneydoodle/projects/huestreet/config/routes.rb",
+		"/Users/looneydoodle/projects/huestreet/app/assets/stylesheets/application.css",
+		"/Users/looneydoodle/projects/huestreet/app/assets/stylesheets/asset.css.scss",
+		"/Users/looneydoodle/projects/huestreet/app/controllers/auth_controller.rb",
+		"/Users/looneydoodle/projects/huestreet/app/views/layouts/application.html.erb",
+		"/Users/looneydoodle/projects/huestreet/app/views/asset/show.html.erb",
+		"/Users/looneydoodle/projects/huestreet/app/assets/stylesheets/welcome.css.scss",
+		"/Users/looneydoodle/projects/huestreet/app/uploaders/asset_uploader.rb",
+		"/Users/looneydoodle/projects/huestreet/app/assets/stylesheets/auth.css.scss",
+		"/Users/looneydoodle/projects/huestreet/app/controllers/asset_controller.rb",
+		"/Users/looneydoodle/projects/huestreet/app/controllers/application_controller.rb",
+		"/Users/looneydoodle/projects/huestreet/app/views/auth/index.html.erb",
+		"/Users/looneydoodle/projects/huestreet/app/views/asset/new.html.erb",
+		"/Users/looneydoodle/projects/huestreet/app/assets/javascripts/jquery.isotope.min.js",
+		"/Users/looneydoodle/projects/huestreet/app/assets/stylesheets/gmaps4rails.css",
+		"/Users/looneydoodle/projects/huestreet/app/views/asset/index.html.erb",
+		"/Users/looneydoodle/projects/huestreet/app/assets/javascripts/application.js",
+		"/Users/looneydoodle/projects/dtourio/config/database.yml",
+		"/Users/looneydoodle/projects/dtourio/Gemfile",
+		"/Users/looneydoodle/projects/dtourio/config/initializers/omniauth.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/colorhues_asset.rb",
+		"/Users/looneydoodle/projects/huestreet/db/migrate/20121118025117_create_habtm_tables.rb",
+		"/Users/looneydoodle/projects/huestreet/db/migrate/20121118024938_create_colors.rb",
+		"/Users/looneydoodle/projects/huestreet/test/unit/colorhues_asset_test.rb",
+		"/Users/looneydoodle/projects/huestreet/config/environments/production.rb",
+		"/Users/looneydoodle/projects/huestreet/test/unit/colorhue_test.rb",
+		"/Users/looneydoodle/projects/huestreet/db/migrate/20121118034143_rename_color_table.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/colors_asset.rb",
+		"/Users/looneydoodle/projects/huestreet/db/migrate/20121118032505_create_colors_assets.rb",
+		"/Users/looneydoodle/projects/huestreet/Gemfile",
+		"/Users/looneydoodle/projects/huestreet/config/initializers/carrierwave.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/asset.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/collection.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/color.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/user.rb",
+		"/Users/looneydoodle/projects/huestreet/db/migrate/20121117231405_create_users.rb",
+		"/Users/looneydoodle/projects/ruby_rails_skeleton/app/controllers/auth_controller.rb",
+		"/Users/looneydoodle/projects/ruby_rails_skeleton/app/views/default/home.html.haml",
+		"/Users/looneydoodle/projects/huestreet/db/migrate/20121117232157_create_authorizations.rb",
+		"/Users/looneydoodle/projects/huestreet/app/models/authorization.rb",
+		"/Users/looneydoodle/projects/ruby_rails_skeleton/config/routes.rb",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/campaigns_content.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/controllers/campaigns_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/campaign.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/campaigns_container.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/css/screen.css",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/container.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/sg/sendgrid.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/webroot/sg/external.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/config/routes.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/elements/footer.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/controllers/studios_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/bookings/notification_email.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/vendors/dompdf6/lib/php-font-lib/classes/font_opentype_table_directory_entry.cls.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/shells/professional_content_breadcrum.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/shells/professional_deleted_container_cleanup.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/shells/professional_remove_contacts_from_associations.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/controllers/campaigns_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/campaigns/edit.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/bookings_settings/edit.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/cake/libs/view/helpers/form.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/controllers/bookings_settings_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/models/campaign.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/bookings/agenda.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/bookings_settings/index.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/settings/edit.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/js/studios.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/professional_app_controller.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/js/workspace/content_details.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/models/content.php",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/js/campaigns.js",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/campaigns/index.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/campaigns/view.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/studios/content_details.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/studios/container_details.ctp",
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/js/workspace/container_details.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/config/sql",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/",
+			"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<?",
+			".removeAttr('id')",
+			"api_base",
+			"e",
+			"casting601",
+			"item.client_name",
+			"artist",
+			"overlay_artist",
+			"artist_credit",
+			"analytics",
+			"loaded_overlay",
+			"li:hover",
+			"onClick=\".*?\"",
+			"<table>",
+			"authentications",
+			":",
+			"{",
+			"}",
+			"\",",
+			",.*?,",
+			"]",
+			"[",
+			"collection_id",
+			"collections",
+			"collection",
+			"CampaignsContainer",
+			"CampaignsContent",
+			"Content",
+			"class=\"overlay_content\"",
+			"overlay_inner",
+			"this",
+			"is_system",
+			"content",
+			"confirm",
+			"timezone_settings",
+			"You must select at least one Portfolio",
+			");\n",
+			"Content",
+			"var queue_name",
+			"content_name",
+			"content",
+			"_content_list",
+			"content_list",
+			"artist_content",
+			"content_id",
+			"content",
+			"Content",
+			"|| data.Container.id",
+			"CampaignsContent",
+			"content_ids",
+			"input_contents",
+			"content_type = data.Container ? 'container' : 'content';",
+			"content_type",
+			"'[' + artist_names + '] ' + content_name",
+			"'#cloneable .content_queue_item'",
+			"professional.campaigns.artist_content",
+			"professional.campaigns._artist_content",
+			"preview",
+			"content_queue",
+			"division_id",
+			"quick",
+			"feat",
+			".quick_send",
+			"Delete Category",
+			"container",
+			"uploadZ",
+			"->delete",
+			"]\"",
+			"[]",
+			"cloneaable_group",
+			"that",
+			"parent_expense_template_id",
+			"div",
+			"+",
+			"send",
+			".send",
+			"xml",
+			"professional.print_booking",
+			"var talent_id = ",
+			"'appointment_id' : this.appointment_id,",
+			"confirm(",
+			"This will create a new client estimate duplicating the current estimate's information",
+			"duplicate",
+			"flushAppointmentCache ",
+			"current_cache_counter",
+			"new_appointments",
+			"addRateRow(",
+			"console.log",
+			">>>>>>>>>>",
+			"syncRateRow",
+			"populateRateRows",
+			"populateTempRows(",
+			"talent_details.addToRateRowCache",
+			"updateRaterowCacheAfter",
+			"current_cache",
+			"console.log",
+			"appointmentTimes",
+			"custom_settings",
+			"<?",
+			"notification-color",
+			"this.contact_id",
+			"populateRateRows(",
+			"scheduleTalent",
+			"/professional/bookings/add_talent/",
+			"scheduleTalent",
+			"TODO",
+			"FIXME",
+			"_talent_Details.container",
+			"talentRateDefaults(",
+			"buildRateRows(",
+			"this",
+			"talentRates(",
+			"formatServerPercent(",
+			"this",
+			"financialCa",
+			"appointment",
+			"buildRateRows(",
+			"buildRateRowCache(",
+			"default",
+			"this",
+			"talentRates(",
+			"this",
+			"appointmentTimes",
+			"schedule_talent.talentTimes",
+			"talentTimes",
+			"$.each(professional.booking.booking_context.schedule_talent.talentTimes(",
+			"datetime",
+			"rate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			" =>",
+			" ",
+			"",
+			"\" :",
+			",",
+			"}",
+			"{",
+			"href=\"<?php echo Router::url('/', true); ?>\"",
+			"<?php echo Router::url('/', true); ?>",
+			"<?php echo Router::url('/newsletters/divider.png', true); ?>",
+			"",
+			"professional.booking.helper.hideLoader();",
+			"professional.booking.helper.showLoader();",
+			"professional.booking.helper.showLoader()",
+			"client-c",
+			"clientCommission",
+			"client_commission",
+			"AppointmentContactClientCommission",
+			"model_commission",
+			"AppointmentContactModelCommission",
+			"solid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 2419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2151,
+								2151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 214.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/stylesheets/application.css",
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/dashboard/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/stylesheets/dashboard.css.scss",
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/dashboard/_not_signed_in.html.erb",
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								1037
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "config/environment.rb",
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/dashboard/_signed_in.html.erb",
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 487.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 86.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"dashcss",
+				"app/assets/stylesheets/dashboard.css.scss"
+			],
+			[
+				"dashbin",
+				"app/views/dashboard/index.html.erb"
+			],
+			[
+				"appcss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"layou",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"databa",
+				"config/database.yml"
+			],
+			[
+				"siteusero",
+				"app/plugins/professional/controllers/site_users_controller.php"
+			],
+			[
+				"siteuser",
+				"app/plugins/professional/models/site_user.php"
+			],
+			[
+				"creaassoc",
+				"app/plugins/professional/config/sql/migrations/20121128154200_create_associations_to_contacts_and_lookbooks_users.php"
+			],
+			[
+				"data",
+				"app/config/database.php"
+			],
+			[
+				"datab",
+				"app/config/database.php"
+			],
+			[
+				"conf",
+				"app/config/config.php"
+			],
+			[
+				"config",
+				"app/vendors/dompdf/config"
+			],
+			[
+				"functionjs",
+				"app/webroot/js/functions.js"
+			],
+			[
+				"commonjs",
+				"app/webroot/js/common.js"
+			],
+			[
+				"about",
+				"app/views/pages/about.ctp"
+			],
+			[
+				"core",
+				"app/config/core.php"
+			],
+			[
+				"mark",
+				"app/webroot/js/marketplace.js"
+			],
+			[
+				"new",
+				"app/views/marketplace/news_overlay.ctp"
+			],
+			[
+				"workover",
+				"app/views/marketplace/work_overlay.ctp"
+			],
+			[
+				"screen",
+				"app/webroot/css/screen.css"
+			],
+			[
+				"confi",
+				"vendors/dompdf/config"
+			],
+			[
+				"common",
+				"webroot/js/common.js"
+			],
+			[
+				"con",
+				"config/config.php"
+			],
+			[
+				"lookbookjs",
+				"webroot/js/lookbook.js"
+			],
+			[
+				"function",
+				"webroot/js/functions.js"
+			],
+			[
+				"marketpla",
+				"webroot/js/marketplace.js"
+			],
+			[
+				"functio",
+				"webroot/js/functions.js"
+			],
+			[
+				"lookbook",
+				"webroot/js/lookbook.js"
+			],
+			[
+				"scree",
+				"webroot/css/screen.css"
+			],
+			[
+				"analy",
+				"views/elements/analytics.ctp"
+			],
+			[
+				"footer",
+				"views/elements/footer_new.ctp"
+			],
+			[
+				"screencss",
+				"webroot/css/screen.css"
+			],
+			[
+				"newsover",
+				"views/marketplace/news_overlay.ctp"
+			],
+			[
+				"functionj",
+				"webroot/js/functions.js"
+			],
+			[
+				"func",
+				"webroot/js/functions.js"
+			],
+			[
+				"lookbook.",
+				"webroot/js/lookbook.js"
+			],
+			[
+				"campaigncont",
+				"app/controllers/campaigns_controller.php"
+			],
+			[
+				"syndicationcont",
+				"app/controllers/syndications_controller.php"
+			],
+			[
+				"syndic",
+				"plugins/professional/vendors/js/syndication.js"
+			],
+			[
+				"appoema",
+				"plugins/professional/models/appointment_email_status.php"
+			],
+			[
+				"notifista",
+				"plugins/professional/models/notification_status.php"
+			],
+			[
+				"notific",
+				"plugins/professional/controllers/appointment_notifications_controller.php"
+			],
+			[
+				"notificont",
+				"plugins/professional/models/notification_status.php"
+			],
+			[
+				"t",
+				"app/models/trip.rb"
+			],
+			[
+				"tripscont",
+				"app/controllers/trips_controller.rb"
+			],
+			[
+				"locat",
+				"app/models/location.rb"
+			],
+			[
+				"location",
+				"app/controllers/locations_controller.rb"
+			],
+			[
+				"locatio",
+				"app/models/location.rb"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"trip",
+				"app/models/trip.rb"
+			],
+			[
+				"tripscon",
+				"app/controllers/trips_controller.rb"
+			],
+			[
+				"location.r",
+				"app/models/location.rb"
+			],
+			[
+				"locationcont",
+				"app/controllers/locations_controller.rb"
+			],
+			[
+				"locationin",
+				"app/views/locations/index.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"authoz",
+				"app/controllers/authorizations_controller.rb"
+			],
+			[
+				"authozicon",
+				"app/controllers/authorizations_controller.rb"
+			],
+			[
+				"welcom",
+				"huestreet/app/assets/javascripts/welcome.js"
+			],
+			[
+				"welcomecont",
+				"huestreet/app/controllers/welcome_controller.rb"
+			],
+			[
+				"welcomecss",
+				"huestreet/app/assets/stylesheets/welcome.css.scss"
+			],
+			[
+				"show",
+				"huestreet/app/views/asset/show.html.erb"
+			],
+			[
+				"uploade",
+				"huestreet/app/uploaders/asset_uploader.rb"
+			],
+			[
+				"home",
+				"huestreet/app/views/welcome/home.html.erb"
+			],
+			[
+				"colorhu",
+				"huestreet/app/models/colorhue.rb"
+			],
+			[
+				"asset",
+				"huestreet/app/models/asset.rb"
+			],
+			[
+				"index",
+				"style/index.html"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"authc",
+				"app/controllers/auth_controller.rb"
+			],
+			[
+				"assetcss",
+				"app/assets/stylesheets/asset.css.scss"
+			],
+			[
+				"welc",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"assetcont",
+				"app/controllers/asset_controller.rb"
+			],
+			[
+				"appcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"authcont",
+				"app/controllers/auth_controller.rb"
+			],
+			[
+				"assetcon",
+				"app/controllers/asset_controller.rb"
+			],
+			[
+				"uplo",
+				"app/uploaders/asset_uploader.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"welcomcon",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"omni",
+				"config/initializers/omniauth.rb"
+			],
+			[
+				"asse",
+				"app/controllers/asset_controller.rb"
+			],
+			[
+				"colorh",
+				"app/models/colorhue.rb"
+			],
+			[
+				"ro",
+				"config/environments/production.rb"
+			],
+			[
+				"rename",
+				"db/migrate/20121118034143_rename_color_table.rb"
+			],
+			[
+				"coloras",
+				"app/models/colors_asset.rb"
+			],
+			[
+				"assetup",
+				"app/uploaders/asset_uploader.rb"
+			],
+			[
+				"default",
+				"ruby_rails_skeleton/app/views/default/home.html.haml"
+			],
+			[
+				"auth",
+				"huestreet/app/controllers/auth_controller.rb"
+			],
+			[
+				"user",
+				"huestreet/app/models/user.rb"
+			],
+			[
+				"content",
+				"app/plugins/professional/models/content.php"
+			],
+			[
+				"marketplac",
+				"app/controllers/marketplace_controller.php"
+			],
+			[
+				"work",
+				"app/views/marketplace/work_overlay.ctp"
+			],
+			[
+				"campaignphp",
+				"app/plugins/professional/models/campaign.php"
+			],
+			[
+				"newove",
+				"app/views/marketplace/news_overlay.ctp"
+			],
+			[
+				"marketplacejs",
+				"app/webroot/js/marketplace.js"
+			],
+			[
+				"notificem",
+				"app/plugins/professional/views/bookings/notification_email.ctp"
+			],
+			[
+				"externa",
+				"app/webroot/sg/external.php"
+			],
+			[
+				"send",
+				"app/webroot/sg/sendgrid.php"
+			],
+			[
+				"appoint",
+				"app/plugins/professional/models/appointment_email_status.php"
+			],
+			[
+				"container",
+				"app/plugins/professional/models/container.php"
+			],
+			[
+				"studioscont",
+				"app/plugins/professional/controllers/studios_controller.php"
+			],
+			[
+				"professional_deleted_container_cleanup",
+				"app/plugins/professional/vendors/shells/professional_deleted_container_cleanup.php"
+			],
+			[
+				"professional_content_breadcrum",
+				"app/plugins/professional/vendors/shells/professional_content_breadcrum.php"
+			],
+			[
+				"removecontact",
+				"app/plugins/professional/vendors/shells/professional_remove_contacts_from_associations.php"
+			],
+			[
+				"campaigned",
+				"app/plugins/professional/views/campaigns/edit.ctp"
+			],
+			[
+				"campaignedit",
+				"app/plugins/professional/views/campaigns/edit.ctp"
+			],
+			[
+				"campai",
+				"app/plugins/professional/controllers/campaigns_controller.php"
+			],
+			[
+				"form.php",
+				"cake/libs/view/helpers/form.php"
+			],
+			[
+				"bookinsetedi",
+				"app/plugins/professional/views/bookings_settings/edit.ctp"
+			],
+			[
+				"appoinemais",
+				"app/plugins/professional/models/appointment_email_status.php"
+			],
+			[
+				"appoinnotcon",
+				"app/plugins/professional/controllers/appointment_notifications_controller.php"
+			],
+			[
+				"notifema",
+				"app/plugins/professional/views/bookings/notification_email.ctp"
+			],
+			[
+				"appointem",
+				"app/plugins/professional/models/appointment_email_status.php"
+			],
+			[
+				"booksetcon",
+				"app/plugins/professional/controllers/bookings_settings_controller.php"
+			],
+			[
+				"bookingsett",
+				"app/plugins/professional/views/bookings_settings/edit.ctp"
+			],
+			[
+				"notificcont",
+				"app/plugins/professional/controllers/appointment_notifications_controller.php"
+			],
+			[
+				"agenda.ct",
+				"app/plugins/professional/views/bookings/agenda.ctp"
+			],
+			[
+				"bookinsettind",
+				"app/plugins/professional/views/bookings_settings/index.ctp"
+			],
+			[
+				"bookingsettingedit",
+				"app/plugins/professional/views/bookings_settings/edit.ctp"
+			],
+			[
+				"settingedit",
+				"app/plugins/professional/views/settings/edit.ctp"
+			],
+			[
+				"bookingsettingcont",
+				"app/plugins/professional/controllers/bookings_settings_controller.php"
+			],
+			[
+				"campaignscont",
+				"app/plugins/professional/controllers/campaigns_controller.php"
+			],
+			[
+				"databs",
+				"app/config/database.php"
+			],
+			[
+				"associatecontainer",
+				"app/plugins/professional/config/sql/migrations/20121114123535_associate_containers_to_campaigns_for_new_casting_thing.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}

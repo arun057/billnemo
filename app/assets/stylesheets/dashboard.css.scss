@@ -3,14 +3,10 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 #home_fullscreen{
-	position: absolute;
-	height: 440px;
-	width: 900px;
-	left: 50%;
-	top: 50%;
-	margin: -220px 0 0 -450px;
-	background: #F6F6F6;
 	padding: 20px;
+}
+
+.shadow{
 	-webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
 	 -khtml-box-shadow: 0px 5px 15px rgba(0,0,0,0.5);
 	   -moz-box-shadow: 0px 5px 15px rgba(0,0,0,0.5);
@@ -23,12 +19,7 @@
 }
 
 #about{
-	max-width: 800px;
-	-webkit-box-shadow: 0 3px 8px rgba(34, 25, 25, 0.4);
-	   -moz-box-shadow: 0 3px 8px rgba(34, 25, 25, 0.4);
-		    box-shadow: 0 3px 8px rgba(34, 25, 25, 0.4);
-	padding: 10px;
-	background: white;
+
 }
 
 #about p{
