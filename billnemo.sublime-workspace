@@ -531,7 +531,7 @@
 			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 2419,
+				"buffer_size": 2660,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "app/assets/stylesheets/application.css",
 			"settings":
 			{
-				"buffer_size": 701,
+				"buffer_size": 844,
 				"line_ending": "Unix"
 			}
 		},
@@ -563,7 +563,7 @@
 			"file": "app/views/dashboard/_not_signed_in.html.erb",
 			"settings":
 			{
-				"buffer_size": 1374,
+				"buffer_size": 2026,
 				"line_ending": "Unix"
 			}
 		},
@@ -596,6 +596,22 @@
 			"settings":
 			{
 				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "billnemo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/scaffolds.css.scss",
+			"settings":
+			{
+				"buffer_size": 1031,
 				"line_ending": "Unix"
 			}
 		}
@@ -984,7 +1000,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1020,15 +1036,15 @@
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 2419,
+						"buffer_size": 2660,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2151,
-								2151
+								1811,
+								1811
 							]
 						],
 						"settings":
@@ -1038,7 +1054,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 214.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1048,15 +1064,15 @@
 					"file": "app/assets/stylesheets/application.css",
 					"settings":
 					{
-						"buffer_size": 701,
+						"buffer_size": 844,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								627,
-								627
+								763,
+								763
 							]
 						],
 						"settings":
@@ -1127,15 +1143,15 @@
 					"file": "app/views/dashboard/_not_signed_in.html.erb",
 					"settings":
 					{
-						"buffer_size": 1374,
+						"buffer_size": 2026,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								85,
-								1037
+								1074,
+								1074
 							]
 						],
 						"settings":
@@ -1249,6 +1265,60 @@
 						"settings":
 						{
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "billnemo.sublime-project",
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/assets/stylesheets/scaffolds.css.scss",
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
