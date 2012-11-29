@@ -8,6 +8,8 @@ gem 'rails', '3.2.8'
 
 gem 'mysql2'
 
+gem 'thin'
+
 # To send out email with gmail.
 gem 'tlsmail'
 
