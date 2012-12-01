@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  amount: 1
+  bill_id: 1
+  split: 1
+  split_type: 1
+  deleted: false
+
+two:
+  name: MyString
+  amount: 1
+  bill_id: 1
+  split: 1
+  split_type: 1
+  deleted: false

@@ -1,4 +1,6 @@
 Billnemo::Application.routes.draw do
+  resources :expenses
+
   resources :bills
 
   root :to => 'dashboard#index'

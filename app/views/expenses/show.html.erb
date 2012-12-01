@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @expense.name %>
+</p>
+
+<p>
+  <b>Amount:</b>
+  <%= @expense.amount %>
+</p>
+
+<p>
+  <b>Bill:</b>
+  <%= @expense.bill_id %>
+</p>
+
+<p>
+  <b>Split:</b>
+  <%= @expense.split %>
+</p>
+
+<p>
+  <b>Split type:</b>
+  <%= @expense.split_type %>
+</p>
+
+<p>
+  <b>Deleted:</b>
+  <%= @expense.deleted %>
+</p>
+
+
+<%= link_to 'Edit', edit_expense_path(@expense) %> |
+<%= link_to 'Back', expenses_path %>

@@ -528,14 +528,6 @@
 			}
 		},
 		{
-			"file": "app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 2660,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "app/assets/stylesheets/application.css",
 			"settings":
 			{
@@ -571,7 +563,7 @@
 			"file": "config/routes.rb",
 			"settings":
 			{
-				"buffer_size": 1864,
+				"buffer_size": 1887,
 				"line_ending": "Unix"
 			}
 		},
@@ -579,7 +571,7 @@
 			"file": "config/environment.rb",
 			"settings":
 			{
-				"buffer_size": 152,
+				"buffer_size": 712,
 				"line_ending": "Unix"
 			}
 		},
@@ -587,7 +579,7 @@
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 1030,
+				"buffer_size": 1137,
 				"line_ending": "Unix"
 			}
 		},
@@ -680,6 +672,7 @@
 	},
 	"file_history":
 	[
+		"/Users/looneydoodle/projects/billnemo/app/views/layouts/application.html.erb",
 		"/Users/looneydoodle/projects/billnemo/config/environments/development.rb",
 		"/Users/looneydoodle/projects/billnemo/Gemfile",
 		"/Users/looneydoodle/projects/billnemo/db/migrate/20120913012656_devise_create_users.rb",
@@ -806,8 +799,7 @@
 		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/campaigns/index.ctp",
 		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/campaigns/view.ctp",
 		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/studios/content_details.ctp",
-		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/studios/container_details.ctp",
-		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/vendors/js/workspace/container_details.js"
+		"/Users/looneydoodle/projects/lkbks/lookbooks/app/plugins/professional/views/studios/container_details.ctp"
 	],
 	"find":
 	{
@@ -1000,7 +992,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1033,34 +1025,6 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 2660,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1811,
-								1811
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "app/assets/stylesheets/application.css",
 					"settings":
 					{
@@ -1086,7 +1050,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "app/views/dashboard/index.html.erb",
 					"settings":
 					{
@@ -1112,7 +1076,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "app/assets/stylesheets/dashboard.css.scss",
 					"settings":
 					{
@@ -1139,7 +1103,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "app/views/dashboard/_not_signed_in.html.erb",
 					"settings":
 					{
@@ -1156,7 +1120,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1165,19 +1131,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "config/routes.rb",
 					"settings":
 					{
-						"buffer_size": 1864,
+						"buffer_size": 1887,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1193,19 +1159,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "config/environment.rb",
 					"settings":
 					{
-						"buffer_size": 152,
+						"buffer_size": 712,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								152,
-								152
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1219,19 +1185,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 1030,
+						"buffer_size": 1137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								211,
-								211
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1247,7 +1213,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "app/views/dashboard/_signed_in.html.erb",
 					"settings":
 					{
@@ -1273,7 +1239,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 9,
 					"file": "billnemo.sublime-project",
 					"settings":
 					{
@@ -1299,7 +1265,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "app/assets/stylesheets/scaffolds.css.scss",
 					"settings":
 					{

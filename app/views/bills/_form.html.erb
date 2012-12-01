@@ -1,41 +1,39 @@
-<%= form_for(@bill) do |f| %>
-  <% if @bill.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@bill.errors.count, "error") %> prohibited this bill from being saved:</h2>
-
-      <ul>
-      <% @bill.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
-      <% end %>
-      </ul>
+<%= form_for @bill, :html => { :class => 'form-horizontal' } do |f| %>
+  <div class="control-group">
+    <%= f.label :name, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :name, :class => 'text_field' %>
     </div>
-  <% end %>
+  </div>
+  <div class="control-group">
+    <%= f.label :bill_date, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :bill_date, :class => 'date_select', 'data-behaviour' => 'datepicker' %>
+    </div>
+  </div>
 
-  <div class="field">
-    <%= f.label :name %><br />
-    <%= f.text_field :name %>
+  <%= nested_form_for @bill do |nf| %>
+    <%= nf.fields_for :expenses do |expense_form| %>
+      <div class="control-group">
+        <%= expense_form.label :name, :class => 'control-label' %>
+        <div class="controls">
+          <%= expense_form.text_field :name, :class => 'text_field'  %>
+        </div>
+      </div>
+      <div class="control-group">
+        <%= expense_form.label :amount, :class => 'control-label' %>
+        <div class="controls">
+          <%= expense_form.number_field :amount, :class => 'text_field'  %>
+        </div>
+      </div>
+      <%= expense_form.link_to_remove "Remove this Expense" %>
+    <% end %>
+    <p><%= nf.link_to_add "Add an Expense", :expenses %></p>
+
+  <div class="form-actions">
+    <%= f.submit nil, :class => 'btn btn-primary' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+                bills_path, :class => 'btn' %>
   </div>
-  <div class="field">
-    <%= f.label :user_id %><br />
-    <%= f.number_field :user_id %>
-  </div>
-  <div class="field">
-    <%= f.label :type_id %><br />
-    <%= f.number_field :type_id %>
-  </div>
-  <div class="field">
-    <%= f.label :total_items %><br />
-    <%= f.number_field :total_items %>
-  </div>
-  <div class="field">
-    <%= f.label :total_users %><br />
-    <%= f.number_field :total_users %>
-  </div>
-  <div class="field">
-    <%= f.label :bill_date %><br />
-    <%= f.date_select :bill_date %>
-  </div>
-  <div class="actions">
-    <%= f.submit %>
-  </div>
+  <% end %>
 <% end %>

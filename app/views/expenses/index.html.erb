@@ -1,0 +1,33 @@
+<h1>Listing expenses</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Amount</th>
+    <th>Bill</th>
+    <th>Split</th>
+    <th>Split type</th>
+    <th>Deleted</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @expenses.each do |expense| %>
+  <tr>
+    <td><%= expense.name %></td>
+    <td><%= expense.amount %></td>
+    <td><%= expense.bill_id %></td>
+    <td><%= expense.split %></td>
+    <td><%= expense.split_type %></td>
+    <td><%= expense.deleted %></td>
+    <td><%= link_to 'Show', expense %></td>
+    <td><%= link_to 'Edit', edit_expense_path(expense) %></td>
+    <td><%= link_to 'Destroy', expense, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Expense', new_expense_path %>

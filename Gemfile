@@ -13,6 +13,9 @@ gem 'thin'
 # To send out email with gmail.
 gem 'tlsmail'
 
+# For creating dynamic additions to stuff.
+gem "nested_form"
+
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -32,6 +35,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'bootstrap-datepicker-rails'
 
 # To use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.0.0'

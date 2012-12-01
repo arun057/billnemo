@@ -1,35 +1,23 @@
-<p id="notice"><%= notice %></p>
+<%- model_class = Bill -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human %></h1>
+</div>
 
-<p>
-  <b>Name:</b>
-  <%= @bill.name %>
-</p>
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:name) %>:</strong></dt>
+  <dd><%= @bill.name %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:bill_date) %>:</strong></dt>
+  <dd><%= @bill.bill_date %></dd>
+</dl>
 
-<p>
-  <b>User:</b>
-  <%= @bill.user_id %>
-</p>
-
-<p>
-  <b>Type:</b>
-  <%= @bill.type_id %>
-</p>
-
-<p>
-  <b>Total items:</b>
-  <%= @bill.total_items %>
-</p>
-
-<p>
-  <b>Total users:</b>
-  <%= @bill.total_users %>
-</p>
-
-<p>
-  <b>Bill date:</b>
-  <%= @bill.bill_date %>
-</p>
-
-
-<%= link_to 'Edit', edit_bill_path(@bill) %> |
-<%= link_to 'Back', bills_path %>
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              bills_path, :class => 'btn'  %>
+  <%= link_to t('.edit', :default => t("helpers.links.edit")),
+              edit_bill_path(@bill), :class => 'btn' %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              bill_path(@bill),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>
