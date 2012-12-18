@@ -61,3 +61,5 @@ end
 gem 'devise'
 
 gem 'uuid'
+
+gem 'libv8'
