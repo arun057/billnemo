@@ -18,6 +18,8 @@ gem 'tlsmail'
 # For creating dynamic additions to stuff.
 gem "nested_form"
 
+gem 'libv8'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -64,5 +66,3 @@ end
 gem 'devise'
 
 gem 'uuid'
-
-gem 'libv8'
