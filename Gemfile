@@ -18,9 +18,6 @@ gem 'tlsmail'
 # For creating dynamic additions to stuff.
 gem "nested_form"
 
-gem 'libv8'
-
-
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -31,7 +28,8 @@ group :assets do
   gem 'less-rails'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  gem 'therubyracer', :platforms => :ruby
+  gem 'therubyracer'
+  gem 'libv8', '3.3.10.4'
   gem 'carrierwave'
 
   gem 'uglifier', '>= 1.0.3'
