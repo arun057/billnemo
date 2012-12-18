@@ -26,3 +26,31 @@
 	font-size: 1.5em;
 	line-height: 1.5em;
 }
+
+.moneybox{
+	display: table !important;
+	height: 250px;
+	width: 100%;
+	color: #f6f6f6;
+	font-size: large;
+	text-align: center;
+}
+
+.money{
+	height: 100%;
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.moneybox.red{
+	background-color: #ED4747;
+}
+
+.moneybox.green{
+	background-color: #A0C053;
+}
+
+.bigmoney{
+	display: inline-block;
+}

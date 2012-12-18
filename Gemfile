@@ -55,9 +55,6 @@ group :development do
 	gem 'debugger'
 end
 
-group :production do
-	gem 'passenger'
-end
 
 
 #Auth
