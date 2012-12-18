@@ -8,7 +8,9 @@ gem 'rails', '3.2.8'
 
 gem 'mysql2'
 
-gem 'thin'
+group :development, :test do
+  gem 'thin'
+end
 
 # To send out email with gmail.
 gem 'tlsmail'
@@ -44,8 +46,9 @@ gem 'bcrypt-ruby', '~> 3.0.0'
 # gem 'jbuilder'
 
 # Use unicorn as the app server
-# gem 'unicorn'
-
+group :production do
+  gem 'unicorn'
+end
 
 group :development do
 	# Deploy with Capistrano
