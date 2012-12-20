@@ -14,43 +14,107 @@
 			box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
 }
 
-#welcome{
-
-}
-
-#about{
-
-}
-
 #about p{
 	font-size: 1.5em;
 	line-height: 1.5em;
 }
 
-.moneybox{
-	display: table !important;
-	height: 250px;
+.money_header{
 	width: 100%;
-	color: #f6f6f6;
-	font-size: large;
-	text-align: center;
+	margin: 0 !important;
+	padding-left: 0!important;
+	padding-right: 0!important;
+	height: 25px !important;
+	text-align: center !important;
+	font-size: 18px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+	padding: 15px 10px;
 }
 
-.money{
-	height: 100%;
-	width: 100%;
-	display: table-cell;
-	vertical-align: middle;
+ul.green .money_header{
+	background-color: #51a351;
+	color: #fff;
+	border-top: 1px solid #51a351;
+	border-left: 1px solid #51a351;
+	border-right: 1px solid #51a351;
+	border-bottom: 1px solid #387038;
 }
-
-.moneybox.red{
-	background-color: #ED4747;
-}
-
-.moneybox.green{
-	background-color: #A0C053;
+ul.red .money_header{
+	background-color: #bd362f;
+	color: #fff;
+	border-top: 1px solid #bd362f;
+	border-left: 1px solid #bd362f;
+	border-right: 1px solid #bd362f;
+	border-bottom: 1px solid #802420;
 }
 
 .bigmoney{
 	display: inline-block;
+}
+
+
+.moneybox ul li{
+	padding: 15px 10px;
+	margin: 0;
+	font-size: 13px;
+}
+.moneybox ul {
+	list-style-type: none;
+	text-align: left;
+	height: 270px;
+	margin: 0;
+}
+
+.moneybox ul.red{
+	border: 2px solid #bd362f;
+	background-color: #da4f49;
+}
+
+.moneybox ul.green{
+	border: 2px solid #51a351;
+	background-color: #65A643;
+}
+
+.moneybox ul.green li.money{
+	background-color: #65A643;
+	border-top: 1px solid #73a839;
+}
+
+.moneybox ul.red li.money{
+	background-color: #da4f49;
+	border-top: 1px solid #ee5f5b;
+}
+
+li.money{
+	font-size: 60px;
+	font-weight: normal;
+	height: 65px;
+	padding: 35px 0 10px;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	border-bottom: none !important;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+	text-align: center;
+}
+
+li.money sup{
+	position: relative;
+	top: -40px;
+	left: 10px;
+	display: inline;
+	font-size: 17px;
+	line-height: 0.8em;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.square_box{
+	height: 270px;
+	background-color: black;
+}
+
+.divider{
+	padding-top: 30px;
+	border-bottom: 1px solid #f6f6f6;
 }
